@@ -5,6 +5,7 @@ A virtual mashine to help new birds study RE
 如果本虚拟机中安装的任何产品有损师傅个人或者贵司的权益，请联系我进行更改或删除。
 联系邮箱：f145h@qq.com
 
+Clash忘了删帐号了，师傅们轻点用。
 ___
 # Installed list
 
