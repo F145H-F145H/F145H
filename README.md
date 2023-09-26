@@ -1,8 +1,13 @@
 # F145H
 A virtual mashine to help new birds study RE
 
-Installed list
+本虚拟机旨在帮助新手配置相对复杂的环境，同时也是因为我自己不擅长磁盘管理，用于个人学习使用。
+如果本虚拟机中安装的任何产品有损师傅个人或者贵司的权益，请联系我进行更改或删除。
+联系邮箱：f145h@qq.com
+
 ___
+# Installed list
+
 ## AntiVirus
 **myccl**
 ## Coder
